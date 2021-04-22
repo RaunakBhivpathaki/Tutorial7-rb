@@ -22,3 +22,21 @@ header-includes:
 ---
 
 # Another section from mynew_branch
+
+\begin{itemize}
+\item This is the first item
+\item THis is the second one
+\end{itemize}
+
+
+- This is markdown list one
+
+* this is markdown list two
+
+
+# Enumerate lists
+
+\begin{enumerate}
+\item This is the first item
+\item THis is the second one
+\end{enumerate}
